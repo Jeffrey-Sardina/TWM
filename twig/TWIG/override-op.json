@@ -1,0 +1,6 @@
+{
+    "first_epochs": 0,
+    "second_epochs": 0,
+    "dataset_names": ["OpenEA"],
+    "test_mode": "exp"
+}

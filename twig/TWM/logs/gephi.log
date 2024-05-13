@@ -1,0 +1,14 @@
+
+> gephi-lite@0.4.2 start
+> vite
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vitejs.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+
+  VITE v5.0.12  ready in 18645 ms
+
+  ➜  Local:   http://localhost:5173/gephi-lite
+  ➜  Network: use --host to expose
+
+[TypeScript] Found 0 errors. Watching for file changes.
+[ESLint] Found 0 error and 0 warning
+Killed

@@ -1,0 +1,6 @@
+{
+    "first_epochs": 0,
+    "second_epochs": 0,
+    "dataset_names": ["UMLS"],
+    "test_mode": "exp"
+}

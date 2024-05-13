@@ -1,0 +1,6 @@
+{
+    "first_epochs": 5,
+    "second_epochs": 10,
+    "dataset_names": ["DBpedia50"],
+    "testing_percent": 0.95
+}
